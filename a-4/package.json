@@ -2,7 +2,7 @@
   "name": "a-4",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tomaszbrauntsch.github.io/CS451",
+  "homepage": "https://tomaszbrauntsch.github.io/CS4502",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
